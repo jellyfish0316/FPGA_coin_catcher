@@ -1,4 +1,4 @@
-# Coin Catcher FPGA Game
+# Coin Catcher Verolog FPGA Game
 
 ```text
 constraints/
